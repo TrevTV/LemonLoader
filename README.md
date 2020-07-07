@@ -5,26 +5,11 @@
 
 ---
 
-### AUTOMATED INSTALLATION:
+### INSTALLATION:
 
-1. Make sure the Game you are installing to is Closed and Not Running.
-2. Download [LemonLoader.Installer.exe](https://github.com/HerpDerpinstine/LemonLoader/releases/latest/download/LemonLoader.Installer.exe).
-3. Run LemonLoader.Installer.exe.
-4. Click the SELECT button.
-5. Select and Open the Game's EXE in your Game's Installation Folder.
-6. Select which Version of LemonLoader to install using the Drop-Down List.  (Or leave it as-is for the Latest Version.)
-7. Click the INSTALL or RE-INSTALL button.
-
----
-	
-### MANUAL INSTALLATION:
-
-1. Make sure the Game you are installing LemonLoader to is Closed and Not Running.
-2. Download [LemonLoader.zip](https://github.com/HerpDerpinstine/LemonLoader/releases/latest/download/LemonLoader.zip).
-3. Extract the LemonLoader folder from LemonLoader.zip to the Game's Installation Folder.
-4. Extract version.dll from LemonLoader.zip to the Game's Installation Folder.
-
----
+1. build it
+2. install it
+3. enjoy lemons
 
 ### MANUAL UNINSTALL:
 
